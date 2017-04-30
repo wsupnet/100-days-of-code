@@ -12,3 +12,8 @@
 
 **Thoughts:** Actually played with Bootstrap for the first time and it's pretty fun
 
+### Day 3: April 29, 2017
+
+**Today's Progress**: Finished the Bootstrap course on freecodecamp.com and started the JQuery course
+
+**Thoughts:** Bootstrap was fun but I can't wait for more JQuery!
