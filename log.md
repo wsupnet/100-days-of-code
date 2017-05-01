@@ -17,3 +17,9 @@
 **Today's Progress**: Finished the Bootstrap course on freecodecamp.com and started the JQuery course
 
 **Thoughts:** Bootstrap was fun but I can't wait for more JQuery!
+
+### Day 4: April 30, 2017
+
+**Today's Progress**: Completed the Javascript and breezed through the HTML courses on SoloLearn
+
+**Thoughts:** It's crazy how 3 months ago I had very little knowledge about HTML/CSS and just today I was able to breeze through the entire lesson like it was nothing
