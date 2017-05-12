@@ -41,3 +41,51 @@
 **Today's Progress**: Finished the JQuery section on freecodecamp.com
 
 **Thoughts:** JQuery is fun
+
+### Day 8: May 4, 2017
+
+**Today's Progress**: Delved deeper into JQuery
+
+**Thoughts:** JQuery useful
+
+### Day 9: May 5, 2017
+
+**Today's Progress**: Busy day but able to squeeze in some JavaScript!
+
+**Thoughts:** Looked into Javascript more
+
+### Day 10: May 6, 2017
+
+**Today's Progress**: Looked at different designs for my portfolio. I also took one of my team projects for school and put it into Jekyll format. 
+
+**Thoughts:** Jekyll is cool! It makes the index.html look a lot cleaner. 
+
+### Day 11: May 7, 2017
+
+**Today's Progress**: Started building a tribute page on codepen.io as an assignment from freecodecamp
+
+**Thoughts:** It brings me back to the time when I was first coding and kind of just letting my imagination go wild by experimenting with code 
+
+### Day 12: May 8, 2017
+
+**Today's Progress**: Got a lot done for the tribute page. Now to work on the CSS!
+
+**Thoughts:** The HTML section was easy, but now comes the CSS...
+
+### Day 13: May 9, 2017
+
+**Today's Progress**: Went browsing on youtube and saw a video that caught my eye. A video on functional programming in JS! Delved into that rabbit hole on accident...
+
+**Thoughts:** What really intrigues me more than functional programming is the idea of different programming paradigms. It's mind-blowing! 
+
+### Day 14: May 10, 2017
+
+**Today's Progress**: Started the practical JavaScript course on watchandcode.com 
+
+**Thoughts:** It's a really great course so far! The examples the instructor gives is really simple and easy to understand
+
+### Day 15: May 11, 2017
+
+**Today's Progress**: Continued the practical Javascript course on watchandcode.com (24% complete)
+
+**Thoughts:** The way he explained functions were done so in a way that it was really easy to understand compared to other tutorials and courses
