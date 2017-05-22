@@ -89,3 +89,63 @@
 **Today's Progress**: Continued the practical Javascript course on watchandcode.com (24% complete)
 
 **Thoughts:** The way he explained functions were done so in a way that it was really easy to understand compared to other tutorials and courses
+
+### Day 16: May 12, 2017
+
+**Today's Progress**: Squeezed in some JavaScript on SoloLearn!
+
+**Thoughts:** It's hard to code everyday especially if you have work and obligations to tend to
+
+### Day 17: May 13, 2017
+
+**Today's Progress**: Read more into the MBTA-REALTIME API DOCUMENTATION in effort to better understand how it works in preparation for the hackathon on Saturday
+
+**Thoughts:** A lot of the documentation include objects and other JavaScript terms that make it familiar but still complex 
+
+### Day 18: May 14, 2017
+
+**Today's Progress**: Explored the possibilities of mapbox @ https://www.mapbox.com/
+
+**Thoughts:** Mapbox is a really cool location platform! 
+
+### Day 19: May 15, 2017
+
+**Today's Progress**: More progress in the practical JavaScript course
+
+**Thoughts:** This is a great course 
+
+### Day 20: May 16, 2017
+
+**Today's Progress**: Started the intermediate class learning C# and .NET! 
+
+**Thoughts:** C# is similar to JavaScript and its fun! 
+
+### Day 21: May 17, 2017
+
+**Today's Progress**: Watched a couple videos on classes and structs in C# 
+
+**Thoughts:** C# is slighty more complex compared to JavaScript in that it has structs
+
+### Day 22: May 18, 2017
+
+**Today's Progress**: Built a program in C# that translates a word into Pig Latin and learned how to make an array in C#
+
+**Thoughts:** C# is really similar to JavaScript. The syntax is just slightly different and C# is a more stronger language. 
+
+### Day 23: May 19, 2017
+
+**Today's Progress**: Prepared for the codeathon tomorrow! Brushed up on some fundamentals. 
+
+**Thoughts:** Hopefully this will go well... 
+
+### Day 24: May 20, 2017
+
+**Today's Progress**: Attended my first codeathon and started building our app for VIA called VIA Alert. I worked on the front-end of the project. I used Bootstrap to create the buttons and integrated flexbox for the logos 
+
+**Thoughts:** It feels great using what I learned in the beginner and some from the intermediate class and applying it to a real life project that we could potentially win money on!
+
+### Day 25: May 21, 2017
+
+**Today's Progress**: Although I only got 2 hours of sleep with my teammates getting even less than me, we didn't completely finish the project. But we complete enough to wow the judges and got 3rd place out of 15 teams! 
+
+**Thoughts:** It was a great experience and I feel like this is one of my first steps to becoming a professional web developer. I got valuable experience from working on this project and I won $150 dollars! 
