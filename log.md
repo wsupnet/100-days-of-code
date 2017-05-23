@@ -149,3 +149,9 @@
 **Today's Progress**: Although I only got 2 hours of sleep with my teammates getting even less than me, we didn't completely finish the project. But we complete enough to wow the judges and got 3rd place out of 15 teams! 
 
 **Thoughts:** It was a great experience and I feel like this is one of my first steps to becoming a professional web developer. I got valuable experience from working on this project and I won $150 dollars! 
+
+### Day 26: May 22, 2017
+
+**Today's Progress**: Continued the Practical Javacsript course, currently making Version 4 of the Todolist program
+
+**Thoughts:** The course is top notch as always! 
