@@ -155,3 +155,39 @@
 **Today's Progress**: Continued the Practical Javacsript course, currently making Version 4 of the Todolist program
 
 **Thoughts:** The course is top notch as always! 
+
+### Day 27: May 23, 2017
+
+**Today's Progress**: Built a tic tac toe game using C# and demoed a webpage builder
+
+**Thoughts:** That webpage builder was pretty cool
+
+### Day 28: May 24, 2017
+
+**Today's Progress**: Completed version 4 of the to do list app I'm building in the Practical JavaScript course 
+
+**Thoughts:** Integrated booleans is fun
+
+### Day 29: May 25, 2017
+
+**Today's Progress**: Build a program in C# that creates a list and if you input a duplicate item on that list, it asks if you want to delete it
+
+**Thoughts:** I like challenges like this where it forces us to figure out solutions! 
+
+### Day 30: May 26, 2017
+
+**Today's Progress**: Finished version 5 of the todo list app in Practical JavaScript
+
+**Thoughts:** Integrating for loops is cool
+
+### Day 31: May 30, 2017
+
+**Today's Progress**: Started working on a project in C# that users can create a house plan
+
+**Thoughts:** Pretty cool how it works! 
+
+### Day 32: May 31, 2017
+
+**Today's Progress**: Worked on the house plan program and added 3 new questions to ask the user 
+
+**Thoughts:** I think I'm starting to get the hang of creating new instances in C#
